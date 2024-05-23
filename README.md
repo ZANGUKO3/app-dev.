@@ -8,3 +8,4 @@ Hinata is inspired by the Small Giant playing volleyball on TV. Three years late
 Shoyo HINATA Tobio KAGEYAMA
 # SECONDARY CHARACTERS
 Asahi AZUMANE Daichi SAWAMURA Ittetsu TAKEDA Keishin UKAI Kei TSUKISHIMA Koshi SUGAWARA Ryunosuke TANAKA Tadashi YAMAGUCHI Yu NISHINOYA
+fff
